@@ -5,6 +5,5 @@ Harbin -> ShenYang -> HongKong -> ShenZhen -> Beijing -> ShenZhen
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaZuiZui&count_private=true)
 
  <p>
-  <img src="https://stats.justsong.cn/api/leetcode/?username=DaZuiZui&theme=light" alt="JustSong's LeetCode Stats" width="49%" />
-  <img src="https://stats.justsong.cn/api/leetcode?username=DaZuiZui&cn=true" alt="JustSong's LeetCode Stats" width="49%" />
+  <img src="https://stats.justsong.cn/api/leetcode?username=hello-dazui&cn=true" alt="Dazui's LeetCode Stats" width="49%" />
 </p>
