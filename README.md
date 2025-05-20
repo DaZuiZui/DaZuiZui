@@ -1,5 +1,5 @@
 ### Hello everyone, my name is Bryan Yang, and I come from China. I have taught myself programming since junior high school. It is a pleasure to meet you here!
-Harbin -> ShenYang -> HongKong -> ShenZhen -> Beijing -> ShenZhen -> ?
+Harbin -> ShenYang -> HongKong -> ShenZhen -> Beijing -> ShenZhen
 
 如果您需要，请联系我：y51288033@outlook.com.
 ### 
