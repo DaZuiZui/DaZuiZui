@@ -6,5 +6,5 @@ Harbin -> ShenYang -> HongKong -> ShenZhen -> Beijing -> ShenZhen
 # 语言 🌍
 英语, 华文， 一点点日语， 至今没学会粤语
 # 工作
-目前已有满意工作 谢谢，暂不考虑新机会。
+目前已有满意工作 谢谢，暂不考虑新机会。以后有机会合作。工作地点只考虑深圳🇨🇳 and 新加坡🇸🇬。
 如果您需要，请联系我email：y51288033@gmail.com.
