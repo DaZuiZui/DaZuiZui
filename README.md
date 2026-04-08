@@ -8,3 +8,5 @@ Harbin -> ShenYang -> HongKong -> ShenZhen -> Beijing -> ShenZhen
 # 工作
 目前已有满意工作 谢谢，暂不考虑新机会。以后有机会合作。工作地点只考虑深圳🇨🇳 and SG🇸🇬 and Kuala Lumpur🇲🇾
 如果您需要，请联系我email：y51288033@gmail.com.
+# 梦想
+想成为动物园饲养员
