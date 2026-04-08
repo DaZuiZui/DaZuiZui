@@ -2,7 +2,7 @@
 Harbin -> ShenYang -> HongKong -> ShenZhen -> Beijing -> ShenZhen
 
 # ❤️
-喜欢游戏，喜欢爬虫🐍。 宅！宅！宅！ 很宅
+喜欢游戏，喜欢爬宠🐍。 宅！宅！宅！ 很宅
 # 语言 🌍
 英语, 华文， 一点点日语， 至今没学会粤语
 # 工作
