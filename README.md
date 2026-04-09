@@ -6,7 +6,7 @@ Harbin -> ShenYang -> HongKong -> ShenZhen -> Beijing -> ShenZhen
 # 语言 🌍
 英语, 华文， 一点点日语， 至今没学会粤语
 # 工作
-以后有机会合作。工作地点只考虑深圳🇨🇳 and SG🇸🇬 and Kuala Lumpur🇲🇾
+工作合作。工作地点只考虑深圳🇨🇳 and SG🇸🇬 and Kuala Lumpur🇲🇾
 如果您需要，请联系我email：y51288033@gmail.com.
 # 梦想
 想成为动物园饲养员
